@@ -19,7 +19,7 @@ redirect_from:
 
 王锐，男，2001年10月19日生，深圳大学计算机与软件学院计算机科学与技术专业工学硕士在读，主要从事医学影像分析方向的研究，聚焦超声心动图视频分割的时空键值记忆架构研发，重点探索门控增量更新与键像素特征融合技术在实时医学影像分析中的应用。
 
-目前以第一作者身份在国际顶级计算机视觉会议CVPR、ICCV发表学术论文，相关研究成果在超声心动图视频分割任务中实现了分割精度与实时推理性能的双重提升，对超声伪影具备优异的鲁棒性。谷歌学术总引用数：<a href='https://scholar.google.com/citations?user=01amzbYAAAAJ'>google scholar citations <strong><span id='total_cit'>更新中</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=01amzbYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+目前以第一作者身份在国际顶级计算机视觉会议CVPR、ICCV发表学术论文，相关研究成果在超声心动图视频分割任务中实现了分割精度与实时推理性能的双重提升，对超声伪影具备优异的鲁棒性。谷歌学术总引用数：<a href='https://scholar.google.com/citations?user=01amzbYAAAAJ'>谷歌学术引用 <strong><span id='total_cit'>2</span></strong></a> (也可使用谷歌学术徽章 <a href='https://scholar.google.com/citations?user=01amzbYAAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/LIUYANROO/WangRui.github.io/main/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 📱 联系电话：+86 159-3855-0910
 📩 电子邮箱：wr_szu@163.com；2400101058@mails.szu.edu.cn
