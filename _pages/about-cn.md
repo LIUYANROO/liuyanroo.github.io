@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 中英文切换 -->
+<div style="text-align: right; font-size: 16px; margin-bottom: 10px;">
+  <a href="/zh/">中文</a> | 
+  <a href="/">English</a>
+</div>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
