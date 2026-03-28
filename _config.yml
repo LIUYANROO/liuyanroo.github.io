@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王锐-Rui Wang"
-description              : "王锐的学术主页 | Rui Wang's Academic Homepage. "
+title                    : "刘彦汝-Rui Wang"
+description              : "刘彦汝的学术主页 | Rui Wang's Academic Homepage. "
 repository               : "https://github.com/LIUYANROO/WangRui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王锐 / Rui Wang"
+  name             : "刘彦汝 / Rui Wang"
   avatar           : "images/apple-icon-180x180.png"
   bio              : "深圳大学 计算机与软件学院 工学硕士在读"
   location         : "Shenzhen, China"
