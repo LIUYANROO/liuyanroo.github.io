@@ -29,13 +29,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘彦汝 / Yanru Liu"
   avatar           : "images/apple-icon-180x180.png"
-  bio              : "深圳大学 计算机与软件学院 计算机科学与技术 硕士在读"
-  location         : "Shenzhen, China"
+  bio              : "香港岭南大学 人工智能与商业分析 硕士在读"
+  location         : "Hong Kong, China"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=01amzbYAAAAJ"
-  email            : "wr_szu@163.com"
-  email2           : "2400101058@mails.szu.edu.cn"
+  email            : "yanruliu077@163.com"
+  email2           : "(+852) 5605 7741"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
